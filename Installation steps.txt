@@ -1,0 +1,4 @@
+download latest idman from official site:
+https://www.internetdownloadmanager.com/download.html
+
+Install and run the activate.cmd file.
